@@ -7,7 +7,7 @@ Word-Cloud
 
 Word-Cloud generated from text
 
-Applied package:
+Applied package:<br/>
 [Natural Language Toolkit](http://www.nltk.org/)<br/>
 [Natural Language Toolkit book](http://www.nltk.org/book/)<br/>
 [pytagcloud](https://pypi.python.org/pypi/pytagcloud)<br/>
